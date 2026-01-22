@@ -1,4 +1,4 @@
-# IT Support Learning Journey 🚀
+# IT Support Journey 🚀
 
 Hi, I'm Sandile.  
 I'm transitioning into IT with a focus on IT Support, Networking, and Cloud.
