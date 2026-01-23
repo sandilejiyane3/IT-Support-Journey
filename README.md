@@ -1,7 +1,7 @@
 # IT Support Journey 
 
 Hi, I'm Sandile.  
-I'm transitioning into IT with a focus on IT Support, Networking, and Cloud.
+I'm transitioning into IT with a focus on IT Support, Networking, and Security.
 
 ##  Goals
 - Land an entry-level IT Support role
